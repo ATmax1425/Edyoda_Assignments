@@ -6,8 +6,9 @@ def calculate(s):
             upper_case += 1
         elif i.islower():
             lower_case += 1
-    
-    return upper_case,  lower_case
+
+    return upper_case, lower_case
+
 
 in_str = input("Enter a string: ")
 
