@@ -1,0 +1,21 @@
+1. What is Python? What are the benefits of using Python?
+2. What is a dynamically typed language?
+3. What is an Interpreted language?
+4. What is PEP 8 and why is it important?
+5. What is Scope in Python?
+6. What are the common built-in data types in Python?
+7. What is break, continue and pass in Python?
+8. What are global, protected and private attributes in Python?
+9. What are modules and packages in Python?
+10. What are Dict and List comprehensions?
+11. What is the use of self in Python?
+12. What is __init__?
+13. What is break, continue and pass in Python?
+14. What is lambda in Python? Why is it used?
+15. What are unit tests in Python?
+16. What is slicing in Python?
+17. What are decorators in Python?
+18. What is the difference between Python Arrays and lists?
+19. What is lambda in Python? Why is it used?
+20. What are generators in Python?
+
