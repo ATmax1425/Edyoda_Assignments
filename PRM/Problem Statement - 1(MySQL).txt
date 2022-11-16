@@ -1,0 +1,26 @@
+DROP TABLE IF EXISTS countries;
+
+CREATE TABLE countries (
+    country_id varchar(2),
+    country_name VARCHAR(40),
+    CHECK(COUNTRY_NAME IN('Italy', 'India', 'China')),
+    region_id decimal(10,0)
+);
+
+INSERT INTO countries (country_id, country_name, region_id)
+VALUES 	('29','Italy', 1),
+		('29','Italy', 2),
+		('29','Italy', 3),
+		('29','Italy', 4),
+		('91','India', 1),
+        ('91','India', 2),
+        ('91','India', 3),
+        ('91','India', 4),
+        ('91','India', 5),
+		('33','China', 1),
+        ('33','China', 2),
+        ('33','China', 3),
+        ('33','China', 4),
+        ('33','China', 5);
+
+-- Given data is imagnary
